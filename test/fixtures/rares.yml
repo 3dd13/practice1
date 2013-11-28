@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  rare_name: MyString
+  rare_family: MyString
+  longitute: 9.99
+  latitude: 9.99
+  verified: false
+
+two:
+  rare_name: MyString
+  rare_family: MyString
+  longitute: 9.99
+  latitude: 9.99
+  verified: false
